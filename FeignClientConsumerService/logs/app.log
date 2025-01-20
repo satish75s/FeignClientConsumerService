@@ -1,0 +1,5 @@
+2025-01-18 15:03:07 - Application shutdown requested.
+2025-01-18 15:03:07 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-18 15:03:07 - Pausing ProtocolHandler ["http-nio-8080"]
+2025-01-18 15:03:07 - Graceful shutdown complete
+2025-01-18 15:03:07 - Stopping ProtocolHandler ["http-nio-8080"]
